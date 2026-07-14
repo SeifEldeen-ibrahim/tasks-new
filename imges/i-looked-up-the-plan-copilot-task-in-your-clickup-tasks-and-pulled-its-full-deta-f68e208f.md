@@ -1,0 +1,1 @@
+I looked up the "Plan = Copilot" task in your ClickUp tasks and pulled its full details — the task name, current status, description text, priority level, due date, and a direct link to open it. That single task's info is shown in the table below so you can see exactly what's involved and what's outstanding on it.
