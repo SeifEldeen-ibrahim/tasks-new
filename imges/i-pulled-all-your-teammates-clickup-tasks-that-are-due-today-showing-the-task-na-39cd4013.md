@@ -1,0 +1,1 @@
+I pulled all your teammates' ClickUp tasks that are due today, showing the task name, status, who's assigned, their email, due date, and a link to open the task directly. There are 6 tasks due today across the team — you can see the full breakdown in the table below.
