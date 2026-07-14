@@ -1,0 +1,3 @@
+Task: Automations, ID: 869e30xxm
+Old description: "Done: We need an automation page to manage scheduled full-copy integrations and tasks, manually launched tasks added to automation, we'll replace \"Ask Support\". Let's reorder there so we have Notifications, Integrations and Automations.\n\nTODO: ui changes (from meeting transcript)"
+New description: "Done: We need an automation page to manage scheduled full-copy integrations and tasks, manually launched tasks added to automation, we'll replace \"Ask Support\". Let's reorder there so we have Notifications, Integrations and Automations.\n\nTODO: ui changes (from meeting transcript)\nthis is verrryyyyy coool form matrix tasks"
