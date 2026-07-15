@@ -3,15 +3,14 @@ task_id: fab81441-aa03-48f2-84d6-7424cb367088
 short_ref: T-J548
 type: agent
 cmd: run
-attempt_no: 1
+attempt_no: 2
 assignee_kind: vm
 assignee_vm_id: 9bc094a9-54da-4abd-95ad-33e26b91ae83
 assignee_vm_name: Content Agent Env
 parent_task_id: null
 created_by: MarcinTmp@biami.io
 created_by_account_id: 47d64501-44da-4b93-ba49-e2a321005623
-deliverable_dir: Img-upload/Write 5-page Markdown lecture from screenshot, tagged with ASU 22P0023/run 1
-attachments: ["attachments/Screenshot from 2026-06-16 01-03-34.png"]
+deliverable_dir: Img-upload/Write 5-page Markdown lecture from screenshot, tagged with ASU 22P0023/run 2
 ---
 
 # Write 5-page Markdown lecture from screenshot, tagged with ASU / 22P0023
