@@ -1,0 +1,1 @@
+I pulled a full list of all the tables in your connected workspace by checking the database's table registry — the table below shows the 31 table names available for you to explore, sorted alphabetically.
