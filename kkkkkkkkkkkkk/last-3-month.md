@@ -1,0 +1,1 @@
+I ran a query against your ClickUp Docs table that counts two things: the total number of docs you have overall, and how many of those were created in the last 3 months. The table below will show both numbers side by side so you can see the recent subset compared to your full doc count.
