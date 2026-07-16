@@ -1,0 +1,1 @@
+I pulled the ClickUp Doc Pages table for you, showing each page's ID, its parent doc and page IDs, name, and creation/update timestamps, sorted with the most recently created pages first (up to 100 rows).
