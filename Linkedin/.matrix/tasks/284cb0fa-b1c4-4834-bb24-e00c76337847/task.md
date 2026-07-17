@@ -2,15 +2,15 @@
 task_id: 284cb0fa-b1c4-4834-bb24-e00c76337847
 short_ref: T-LRH5
 type: agent
-cmd: run
-attempt_no: 1
+cmd: cancel
+attempt_no: 0
 assignee_kind: vm
 assignee_vm_id: 9bc094a9-54da-4abd-95ad-33e26b91ae83
 assignee_vm_name: Content Agent Env
 parent_task_id: null
 created_by: MarcinTmp@biami.io
 created_by_account_id: 47d64501-44da-4b93-ba49-e2a321005623
-deliverable_dir: Linkedin/Like, comment, and repost a specific LinkedIn post/run 1
+deliverable_dir: Linkedin/Like, comment, and repost a specific LinkedIn post/run 0
 ---
 
 # Like, comment, and repost a specific LinkedIn post
