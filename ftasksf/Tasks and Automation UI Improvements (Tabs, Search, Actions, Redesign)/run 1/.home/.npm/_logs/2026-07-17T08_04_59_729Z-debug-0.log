@@ -1,0 +1,38 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1/.npmrc
+5 silly config load:file:/opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1/.home/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm create vite@latest app --template react
+8 verbose argv "create" "vite@latest" "app" "--" "--template" "react"
+9 verbose logfile logs-max:10 dir:/opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1/.home/.npm/_logs/2026-07-17T08_04_59_729Z-
+10 verbose logfile /opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1/.home/.npm/_logs/2026-07-17T08_04_59_729Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET https://registry.npmjs.org/npm attempt 1 failed with EAI_AGAIN
+13 silly packumentCache heap:2103443456 maxSize:525860864 maxEntrySize:262930432
+14 http fetch GET https://registry.npmjs.org/create-vite attempt 1 failed with EAI_AGAIN
+15 http fetch GET https://registry.npmjs.org/npm attempt 2 failed with EAI_AGAIN
+16 http fetch GET https://registry.npmjs.org/create-vite attempt 2 failed with EAI_AGAIN
+17 http fetch GET https://registry.npmjs.org/npm attempt 3 failed with EAI_AGAIN
+18 http fetch GET https://registry.npmjs.org/create-vite attempt 3 failed with EAI_AGAIN
+19 verbose type system
+20 verbose stack FetchError: request to https://registry.npmjs.org/create-vite failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org
+20 verbose stack     at ClientRequest.<anonymous> (/usr/lib/node_modules/npm/node_modules/minipass-fetch/lib/index.js:130:14)
+20 verbose stack     at ClientRequest.emit (node:events:524:28)
+20 verbose stack     at emitErrorEvent (node:_http_client:101:11)
+20 verbose stack     at _destroy (node:_http_client:884:9)
+20 verbose stack     at onSocketNT (node:_http_client:904:5)
+20 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+21 error code EAI_AGAIN
+22 error syscall getaddrinfo
+23 error errno EAI_AGAIN
+24 error request to https://registry.npmjs.org/create-vite failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org
+25 verbose cwd /opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1
+26 verbose os Linux 6.8.0-124-generic
+27 verbose node v20.20.2
+28 verbose npm  v10.8.2
+29 verbose exit 1
+30 verbose code 1
+31 error A complete log of this run can be found in: /opt/openclaw/work/7b74b645-19a1-45f5-91e1-724d5811efbe/1/.home/.npm/_logs/2026-07-17T08_04_59_729Z-debug-0.log
