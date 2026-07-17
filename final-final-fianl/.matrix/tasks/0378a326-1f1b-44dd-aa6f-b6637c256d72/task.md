@@ -2,15 +2,15 @@
 task_id: 0378a326-1f1b-44dd-aa6f-b6637c256d72
 short_ref: T-NCBF
 type: agent
-cmd: run
-attempt_no: 1
+cmd: cancel
+attempt_no: 0
 assignee_kind: vm
 assignee_vm_id: 9bc094a9-54da-4abd-95ad-33e26b91ae83
 assignee_vm_name: Content Agent Env
 parent_task_id: null
 created_by: MarcinTmp@biami.io
 created_by_account_id: 47d64501-44da-4b93-ba49-e2a321005623
-deliverable_dir: final-final-fianl/Write a LinkedIn post recapping the last 24 hours of AI news/run 1
+deliverable_dir: final-final-fianl/Write a LinkedIn post recapping the last 24 hours of AI news/run 0
 ---
 
 # Write a LinkedIn post recapping the last 24 hours of AI news
