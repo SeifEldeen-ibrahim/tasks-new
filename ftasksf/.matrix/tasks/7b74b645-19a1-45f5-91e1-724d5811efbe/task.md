@@ -2,15 +2,15 @@
 task_id: 7b74b645-19a1-45f5-91e1-724d5811efbe
 short_ref: T-GVJ5
 type: agent
-cmd: run
-attempt_no: 1
+cmd: changes
+attempt_no: 2
 assignee_kind: vm
 assignee_vm_id: 9bc094a9-54da-4abd-95ad-33e26b91ae83
 assignee_vm_name: Content Agent Env
 parent_task_id: null
 created_by: MarcinTmp@biami.io
 created_by_account_id: 47d64501-44da-4b93-ba49-e2a321005623
-deliverable_dir: ftasksf/Tasks and Automation UI Improvements (Tabs, Search, Actions, Redesign)/run 1
+deliverable_dir: ftasksf/Tasks and Automation UI Improvements (Tabs, Search, Actions, Redesign)/run 2
 ---
 
 # Tasks and Automation UI Improvements (Tabs, Search, Actions, Redesign)
@@ -61,3 +61,8 @@ Acceptance criteria:
 - Tasks can be scheduled directly from the Tasks tab.
 - Tasks list view replaces popup-heavy flow, with inline status, right-aligned actions, and separate View details / View logs actions.
 - Status filtering works on both Tasks and Automations screens.
+
+## Changes requested
+
+no no  the discription i gave you in to create the task on click up not to implment
+
