@@ -2,15 +2,15 @@
 task_id: 79426849-95cc-45b5-86f7-0474064bb12c
 short_ref: T-5RZY
 type: agent
-cmd: run
-attempt_no: 1
+cmd: cancel
+attempt_no: 0
 assignee_kind: vm
 assignee_vm_id: 9bc094a9-54da-4abd-95ad-33e26b91ae83
 assignee_vm_name: Content Agent Env
 parent_task_id: null
 created_by: MarcinTmp@biami.io
 created_by_account_id: 47d64501-44da-4b93-ba49-e2a321005623
-deliverable_dir: "TTT/Draft LinkedIn announcement post + image for 'Matrix Tasks is ready' (do not pub/run 1"
+deliverable_dir: "TTT/Draft LinkedIn announcement post + image for 'Matrix Tasks is ready' (do not pub/run 0"
 ---
 
 # Draft LinkedIn announcement post + image for 'Matrix Tasks is ready' (do not publish)
