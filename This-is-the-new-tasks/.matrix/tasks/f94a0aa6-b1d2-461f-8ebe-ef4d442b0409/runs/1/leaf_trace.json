@@ -1,0 +1,32 @@
+{
+  "schema": "matrix-leaf-trace/1",
+  "task_id": "f94a0aa6-b1d2-461f-8ebe-ef4d442b0409",
+  "attempt_no": 1,
+  "orchestrator": {
+    "skill": "matrix-orchestrator",
+    "model": "gpt-4o",
+    "delegated_to": [
+      "clickup"
+    ]
+  },
+  "leaves": [
+    {
+      "skill": "clickup",
+      "model": "openai/gpt-4o",
+      "provider": "openai",
+      "allow_hosts": [
+        "api.clickup.com"
+      ],
+      "tools": [
+        {
+          "name": "list_workspaces",
+          "calls": 1,
+          "ok": 1,
+          "errors": 0
+        }
+      ],
+      "wrote": [],
+      "promoted": []
+    }
+  ]
+}
